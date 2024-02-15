@@ -1,1 +1,3 @@
-# rock-paper-scissors-Project
+this is a rock paper scissors project using HTML CSS JavaScript.....
+you can see this project is interactive
+learn this from supersimpledev Course
